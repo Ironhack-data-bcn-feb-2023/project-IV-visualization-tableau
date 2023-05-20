@@ -1,4 +1,4 @@
-
+![Portada](https://github.com/Ironhack-data-bcn-feb-2023/project-VI-visualization-tableau/blob/main/Caso%20Microsoft.jpg)
 
 # project-VI-visualization-tableau
 
