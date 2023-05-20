@@ -36,4 +36,7 @@ The idea is that you will use data to capture ideas in the form of graphs and vi
 ## Links & Resources
 
 - <https://www.kaggle.com/teajay/global-shark-attacks>
+- <https://data.world/>
+- <https://datasetsearch.research.google.com/>
+- 
 
