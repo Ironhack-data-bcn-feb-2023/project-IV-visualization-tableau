@@ -1,40 +1,38 @@
-![Portada](https://github.com/Ironhack-data-bcn-feb-2023/project-VI-visualization-tableau/blob/main/images/Caso%20Microsoft.jpg)
-
-# project-VI-visualization-tableau
-
-In this project you will use your knowledge of visualization tools to make a report or dashboard that tells the story for you.
-
-The idea is that you will use data to capture ideas in the form of graphs and visualizations so that you can show the client (teacher and teaching assistant) the needs of their business/the answer to the questions they asked/the research about the curiosities they have.
+# PROYECTO 4
+# TABLEAU
+# ![Figura 1](Imagenes/../Images/imgport.jpg)
 
 
-## TO DO's
+En este proyecto graficare la informacion dada en el dataset de GAMES, este archivo contiene informacion de los juegos de computadora mas relevantes de los ultimos 40 años, sus respectivos nombres, creadores y publicadores.
 
-1. Find the data: Use what you already have or find a simple dataset from kaggle or some data source....  Don't get stuck finding data, we are also interested in knowing which pizzas are eaten the most in NY 😉😉🍕
+#
+## 1. OBJETIVO:
+Mediante TABLEAU mostrar los datos del archivo GAMES en diferentes tipos de graficos, mostrare:
 
-2. Explore the data a little: Although the idea is to have a clean data set, make sure the data has a good structure and if you must relate several tables, make sure they are well related.
+* Informacion relevante respecto a los publicadores y desarrolladores
+* El genero de juegos mas ofertado en el mercado
+* Las series presentes en el dataset y cual de ellas tiene mayor numero de juegos y ventas dentro de la misma 
+* El juego con mas ventas en los ultimos años 
+* Lineas de tiempo donde se refleje los años con mayor numero de estrenos y ventas
 
-3. Define one or two simple hypotheses: it should not be complicated to ask yourself questions, sometimes the simplest ones show more information.
 
-4. Go crazy with the charts: Play with the application and make a lot of charts, think if they make sense and delete the ones that do not.
+# ![Figura 2](Imagenes/../Images/img.jpg)
 
-5. Prepare a storytelling: Let your dashboard tell a story, help us understand the needs and/or curiosities from the beginning.
+#
+## 2. DESARROLLO:
+1. Importe el documento como textfile a TABLEAU
+2. Indique los parametros explicados en clase al archivo
+3. Cambie el tipo de dato en las columnas segun el la conveniencia de las mismas
+4. Interactue con los diferentes opciones que birnda la applicacion, las cuales muestro en la presentacion, cree diferentes hojas y dashboards para luego agruparlo todo en la story presentada.
 
-6. (Optional) Prepare a powerpoint to defend your point. 💪
 
-## How to deliver the project
+#
+## 3. CONCLUSIONES:
+## * El juego con mejores ventas:
+# ![Figura 2](Imagenes/../Images/img1.jpg)
+## * Desarrollador y publicador mas relevante
 
-1. Create a new repository in your github profile.
+# ![Figura 3](Imagenes/../Images/img2.jpg) ![Figura 4](Imagenes/../Images/img3.jpg)
 
-2. Add two folders: project and data (images if necessary).
-
-3. Upload your dashboard (tableau or powerBI file) and your data set to the corresponding folder.
-
-4. Create an Issue in this repository and comment in it, the link to your repository.
-
-5. Create a `README.md` file on repo root with project documentation. Make sure to include as much useful information as possible. Someone that finds the README.md should be able to fully get a gist of the project without browsing your files.
-
-## Links & Resources
-
-- <https://www.kaggle.com/teajay/global-shark-attacks>
-- <https://data.world/>
-- <https://datasetsearch.research.google.com/>
+## * Los mejores años en cuanto a lanzamientos y ventas han sido entre el 2002 - 2006 y 2010-2019
+# ![Figura 5](Imagenes/../Images/img4.jpg) 
