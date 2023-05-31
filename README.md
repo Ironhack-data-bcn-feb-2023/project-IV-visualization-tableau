@@ -1,9 +1,9 @@
 # PROYECTO 4
 # TABLEAU
-# ![Figura 1](Imagenes/../Images/imgport.jpg)
+# ![Figura 1](Images/imgport.jpg)
 
 
-En este proyecto graficare la informacion dada en el dataset de GAMES, este archivo contiene informacion de los juegos de computadora mas relevantes de los ultimos 40 años, sus respectivos nombres, creadores y publicadores.
+En este proyecto graficare la informacion dada en el dataset de GAMES, este archivo contiene informacion de los juegos de computadora aparentemente mas relevantes de los ultimos 40 años, sus respectivos nombres, creadores y publicadores.
 
 #
 ## 1. OBJETIVO:
