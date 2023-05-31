@@ -1,6 +1,6 @@
 # PROYECTO 4
 # TABLEAU
-# ![Figura 1](Images/imgport.jpg)
+# ![imgport](https://github.com/dfnevar/project-VI-visualization-tableau/assets/120135390/40299c7a-1ea6-48b5-b63b-f17192373f5c)
 
 
 En este proyecto graficare la informacion dada en el dataset de GAMES, este archivo contiene informacion de los juegos de computadora aparentemente mas relevantes de los ultimos 40 años, sus respectivos nombres, creadores y publicadores.
