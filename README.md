@@ -16,7 +16,7 @@ Mediante TABLEAU mostrar los datos del archivo GAMES en diferentes tipos de graf
 * Lineas de tiempo donde se refleje los años con mayor numero de estrenos y ventas
 
 
-# ![Figura 2](Imagenes/../Images/img.jpg)
+# ![Figura 2](Images/img.jpg)
 
 #
 ## 2. DESARROLLO:
