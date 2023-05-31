@@ -16,7 +16,7 @@ Mediante TABLEAU mostrar los datos del archivo GAMES en diferentes tipos de graf
 * Lineas de tiempo donde se refleje los años con mayor numero de estrenos y ventas
 
 
-# ![Figura 2](Images/img.jpg)
+# ![img](https://github.com/dfnevar/project-VI-visualization-tableau/assets/120135390/d8a98849-9dc1-4b1c-b708-559780a65e89)
 
 #
 ## 2. DESARROLLO:
@@ -29,10 +29,12 @@ Mediante TABLEAU mostrar los datos del archivo GAMES en diferentes tipos de graf
 #
 ## 3. CONCLUSIONES:
 ## * El juego con mejores ventas:
-# ![Figura 2](Imagenes/../Images/img1.jpg)
+# ![img1](https://github.com/dfnevar/project-VI-visualization-tableau/assets/120135390/ab48f695-6811-4b0e-958e-5c7a825c2c6d)
+
 ## * Desarrollador y publicador mas relevante
 
-# ![Figura 3](Imagenes/../Images/img2.jpg) ![Figura 4](Imagenes/../Images/img3.jpg)
+#![img2](https://github.com/dfnevar/project-VI-visualization-tableau/assets/120135390/abf68454-6951-4e71-a9d8-86c7d931291b)
+![img3](https://github.com/dfnevar/project-VI-visualization-tableau/assets/120135390/53fe4117-98a2-4f52-b5fe-3402bfb38a46)
 
 ## * Los mejores años en cuanto a lanzamientos y ventas han sido entre el 2002 - 2006 y 2010-2019
-# ![Figura 5](Imagenes/../Images/img4.jpg) 
+# ![img4](https://github.com/dfnevar/project-VI-visualization-tableau/assets/120135390/e04ead41-afaf-473e-8c5b-ef22ecda3a97)
